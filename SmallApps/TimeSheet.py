@@ -25,12 +25,6 @@ print("Entering timesheet for: "+nextDateTSDisplay)
 ## inputs
 nextDateTS_input = input("   Or is it a different date? (mm/dd/yyyy): ")
 clientCode = input("Enter ClientCode (0009MSC01): ")
-# 0009HOL01-01 #holiday
-# 0009HOL01-02 floating holiday  # change client suffix to 02
-# 0009MKT01 #marketing, article work
-# 0009MSC04 #volunteer time
-# 0009PTO01 PTO
-# 0106SUM01 March 19, start Jan 18
 
 hoursTS = input("Enter Hours (7.5): ") 
 
