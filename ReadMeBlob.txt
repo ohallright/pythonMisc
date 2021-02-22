@@ -1,0 +1,1 @@
+ReadMe for Azure blob folder
