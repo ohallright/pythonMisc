@@ -1,3 +1,5 @@
+## Author: Ryan L 2021, gitHub ohallright/pythonMisc
+
 import pyautogui
 import time
 
