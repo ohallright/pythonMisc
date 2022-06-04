@@ -9,6 +9,7 @@ will need to pip install
     -openpyxl
 
 Notes:
+    -I set this up so you can copy the repo and use the .py files, however .pynb are also valid if you prefer
     -the first script takes the number of exports then you click class by class in nearpod
     -the second script takes the first activity (col 7, G)
         -if the value is blank or a "-" then that's a 0, else 1
